@@ -53,12 +53,3 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="50" height="50"/>&nbsp;
   </div>
 </div>
-
----
-
-<details align="center">
-  <summary> Click 👈🏻</summary>
-    
-  ![github-contribution-grid-snake](github-contribution-grid-snake-dark.svg)
-  </p>
-</details>
